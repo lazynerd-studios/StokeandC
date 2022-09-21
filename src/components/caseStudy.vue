@@ -1,22 +1,19 @@
 <template>
     <div>
         <div class="case-study-inner1">
-            <div class="study-inner1-title">SCEL Case Study</div>
-            <h2>Recent Industry Project</h2>
+            
+            <h2>Featured Projects</h2>
         </div>
 
         <div class="case-study-slider-main">
             <div class="case-study-slide1">
-                    <h3>
-                        Machinary Agile Motive Frameworks
-                    </h3>
+                  
 
                     <p>
-                        In standard machining, a skilled machinist operates equipment, removing or developing steel.
-                         This is done as per the requirement given by designers and developers.
+                       We ensure that all projects handled by us are delivered on time, thanks to our dedicated and highly skilled staff
                     </p>
 
-                      <button class="case-btn">Case Details<Icon icon="ant-design:plus-outlined" class="case-button-icon" /></button>
+                      
             </div>
 
 
@@ -42,23 +39,24 @@
 <script>
 import { VueperSlides, VueperSlide } from 'vueperslides'
 import 'vueperslides/dist/vueperslides.css'
-import { Icon } from '@iconify/vue';
+import project1 from "../assets/img/engine1.jpg"
+import project2 from "../assets/img/engine2.jpg"
 
 export default {
 	components: {
         VueperSlides,
          VueperSlide,
-		Icon,
+	
 	},
 
     data: () => ({
   slides: [
   {
-     image: require('@/assets/project-1-670x570.jpg')
+     image:project1
    
   },
   {
-       image: require('@/assets/image-b.jpg')
+       image:project2
    
   },
   // Other slides.

@@ -8,7 +8,7 @@
                        
                         <span class="foot-inner-text">
                             <h2>24/7 Clients Support</h2>
-                            <h5>Commodo viverra maecenas accumsan lacus vel facilisis.</h5>
+                            <h5>Our clients can reach out to us 24/7</h5>
 
                         </span>
                 </div>
@@ -17,9 +17,9 @@
                     <span class="foot-idea">  <Icon icon="icons8:idea" /></span>
                   
                      <span class="foot-inner-text">
-                            <h2>Creative Ideas</h2>
-                            <h5>Commodo viverra maecenas accumsan lacus vel facilisis.</h5>
-
+                            <h2>Professional Touch</h2>
+                            <h5>We provide that professional touch that delivers excellent services
+                            </h5>
                         </span>
                 </div>
 
@@ -27,8 +27,8 @@
                     <span class="foot-shield"><Icon icon="uil:shield-check" /></span>
                    
                      <span class="foot-inner-text">
-                            <h2>Super Safety</h2>
-                            <h5>Commodo viverra maecenas accumsan lacus vel facilisis.</h5>
+                            <h2>Quality comes first</h2>
+                            <h5>We ensure to use the best methods and materials when rendering our services</h5>
 
                         </span>
                 </div>

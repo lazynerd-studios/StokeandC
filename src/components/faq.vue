@@ -2,64 +2,26 @@
     <div class="faq-main">
 
     <div class="faq1">
-        <div>Frequently Asked Questions</div>
-        <h2>Get Every Single Answer From Here</h2>
-        <img src="../assets/img/14331.jpg" alt="" srcset="">
+        <div>What We Stand For</div>
+        <h2>To provide that professional touch that delivers excellent services</h2>
+        
     </div>    
 
     <div class="container">
-<p>
-    Working with several word press themes and templates the last years, I only can say this is the best in every level. I use it for my company and the reviews that I have already are all excellent.
-</p>
 
-<div>
-  <input type="checkbox" id="question17" name="q"  class="questions">
-  <div class="plus">+</div>
-  <label for="question17" class="question">
-What are industrial visuals?
-  </label>
-  <div class="answers">
-    <p>Industrial visuals are images that depict or represent various elements regarding the manufacturing of products via factory workers or industrial automation. Images can include workers on assembly lines, aerial shots of factories, and industrial design blueprints. </p>
-    
-  </div>
+ <div class="do-img">
+ <img src="../assets/img/engine7.jpg" alt="" srcset=""></div>
+
+
+<!-- _____________________________________________________ --> 
+
+ 
 </div>
 <!-- _____________________________________________________ --> 
-<div>
-  <input type="checkbox" id="question18" name="q"  class="questions">
-  <div class="plus">+</div>
-  <label for="question18" class="question">
-How to choose engaging industrial images?
-  </label>
-  <div class="answers">
-    <p>With so many industrial images in the Shutterstock library, it’s important to narrow down the selection to images that offer the most impact and value for your project. Images with people are a good choice, especially if they are engaged in an activity that is easily understandable by the viewer. Such images have a higher chance of standing out and catching a viewer’s attention.</p>
-    
-  </div>
 </div>
 <!-- _____________________________________________________ --> 
-<div>
-  <input type="checkbox" id="question19" name="q"  class="questions">
-  <div class="plus">+</div>
-  <label for="question19" class="question">
-How to find high-quality industrial images?
-  </label>
-  <div class="answers">
-    <p>High-quality industrial images are easy to find on Shutterstock. To start the process, type what you’re looking for in the Shutterstock search bar. In this case, you type “industrial” in the search bar. If you’re not able to find what you’re looking for or you want to narrow down your options, you can find various options on the left-hand side of the search results page. </p>
-    
-  </div>
-</div>
-<!-- _____________________________________________________ --> 
-<div>
-  <input type="checkbox" id="question20" name="q" class="questions">
-  <div class="plus">+</div>
-  <label for="question20" class="question">
-Where can you use pictures of industries and factories?
-  </label>
-  <div class="answers">
-    <p>Images and illustrations of factories can fit within a variety of projects from internal corporate memos to advertisements and header images on webpages. Companies that may not want to take images inside. </p>
-  </div>
-</div>
-    </div>
-    </div>
+
+ 
 </template>
 
 <script>
@@ -98,6 +60,13 @@ font-style: normal;
 color: #98c23d;
   font-size: 32px;
   
+}
+
+
+
+
+img{
+  width: 450px;
 }
 
 

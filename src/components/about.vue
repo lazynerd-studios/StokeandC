@@ -2,9 +2,9 @@
     <div class="About-main">
    <div class="container-1">
        
-       <div class="container-1-img1"><img src="../assets/img/image1.jpg" alt="" ></div>
+       <div class="container-1-img1"><img src="../assets/img/engine6.jpg" alt="" ></div>
        <div class="container-1-div"><h1 class="twenty">20+</h1><h2>years</h2></div>
-       <div class="container-1-img2"><img src="../assets/img/image2.jpg" alt="" ></div>
+       <div class="container-1-img2"><img src="../assets/img/engine5.jpg" alt="" ></div>
    </div>
 
    <div class="container-2">
@@ -27,7 +27,7 @@
                 <span class="about-icon"><Icon icon="dashicons:awards" class="about-icon-inner"  /></span>
                
                   <h3>Installation and Maintenance Services</h3>
-               <p>We provide a hands-on approach to render  installation, consultancy and maintenance services in the oil and gas industry. </p>
+               <p>We also provide installation and maintenance services  </p>
                </div>
 
            </div>

@@ -41,8 +41,7 @@
                                         </span>
                                       
                                         <h2>Consultation</h2>
-                                        <p> In parallel with the repair & maintenance
-                                             of pumps on floating vehicles,…</p>
+                                        <p>We focus on out client's most critical issues and provide solutions </p>
                                             
                                     </div>
 
@@ -52,8 +51,7 @@
                                         </span>
                                        
                                          <h2>Engineering Works</h2>
-                                           <p> In parallel with the repair & maintenance
-                                             of pumps on floating vehicles,…</p>
+                                           <p> We also offer designing and constructing services </p>
                                             
                                     </div>
 
@@ -62,8 +60,7 @@
                                             <Icon icon="emojione-monotone:factory" :horizontalFlip="true" class="we-do-card-icon" />
                                        </span>
                                          <h2>Installation</h2>
-                                           <p> In parallel with the repair & maintenance
-                                             of pumps on floating vehicles,…</p>
+                                           <p>Clients can also contact us to help to install, setup and test machines.  </p>
                                            
                                     </div>
 
@@ -72,8 +69,7 @@
                                             <Icon icon="mdi:excavator" class="we-do-card-icon" />
                                        </span>
                                          <h2>Maintenance</h2>
-                                           <p> In parallel with the repair & maintenance
-                                             of pumps on floating vehicles,…</p>
+                                           <p> We offer maintenace services</p>
                                            
                                     </div>
                                 </div>

@@ -28,11 +28,9 @@
             <p class="slide-content-text1">{{ slide.headlineFirstLine }}</p>
             <p class="slide-content-text2">{{ slide.headlineSecondLine }}</p>
           </h1>
-          <a class="slide-content-cta">Book Now<Icon icon="ant-design:plus-outlined" class="button-icon-slide" /></a>
+        
         </div>
-        <h2 class="slide-side-text">
-          <span>instagram<Icon icon="jam:instagram" class="slide-sec1-icon" /></span><span>facebook<Icon icon="ei:sc-facebook" class="slide-sec1-icon" /></span><span>Twitter <Icon icon="entypo-social:twitter" class="slide-sec1-icon" /></span>
-        </h2>
+        
       </div> 
                         
                        
@@ -53,15 +51,11 @@
 </template>
 
 <script>
-import { Icon } from '@iconify/vue';
 import rigImg1 from "../assets/img/rigImg1.jpg"
 import rigImg2 from "../assets/img/rigImg2.jpg"
 import rigImg3 from "../assets/img/rigimg3.jpg"
 export default {
   name: "slider",
-  components: {
-    Icon,
-  },
   data: () => ({
     currentSlide: 0,
     isPreviousSlide: false,
