@@ -54,6 +54,9 @@
 
 <script>
 import { Icon } from '@iconify/vue';
+import rigImg1 from "../assets/img/rigImg1.jpg"
+import rigImg2 from "../assets/img/rigImg2.jpg"
+import rigImg3 from "../assets/img/rigimg3.jpg"
 export default {
   name: "slider",
   components: {
@@ -65,27 +68,27 @@ export default {
     isFirstLoad: true,
     slides: [
       {
-        headlineFirstLine: "Welcome you industo",
-        headlineSecondLine: "Fast and reliable electrical services",
-        sublineFirstLine: "Nihil sub agama",
-        sublineSecondLine: "novum",
-        bgImg: "https://i.postimg.cc/C5yvGSkm/slide0.jpg",
-        rectImg: "https://i.postimg.cc/vTW0XkvM/slide-rect0.jpg",
+        headlineFirstLine: "Welcome to Stoke and Caldwell,",
+        headlineSecondLine: "An oil-rig servicing company",
+        sublineFirstLine: "",
+        sublineSecondLine: "",
+        bgImg: rigImg1 ,
+        // rectImg: "https://i.postimg.cc/vTW0XkvM/slide-rect0.jpg",
       },
       {
-        headlineFirstLine: "Welcome you industo",
-        headlineSecondLine: "we're best providing industrial park",
+        headlineFirstLine: "We are Stoke and Caldwell",
+        headlineSecondLine: "We render engineering procurement and construction",
         sublineFirstLine: "Il n'y a rien de neuf sous",
         sublineSecondLine: "le soleil",
-        bgImg: "https://i.postimg.cc/Qx34VNXM/slide1.jpg",
+        bgImg: rigImg2 ,
         rectImg: "https://i.postimg.cc/ryWZ8R2b/slide-rect1.jpg",
       },
       {
-        headlineFirstLine: "Welcome you industo",
-        headlineSecondLine: "Building management system",
+        headlineFirstLine: "We are Stoke and Caldwell",
+        headlineSecondLine: "We also offer marine services and manpower supply to the oil and gas industry ",
         sublineFirstLine: "Τίποτα καινούργιο κάτω από",
         sublineSecondLine: "τον ήλιο",
-        bgImg: "https://i.postimg.cc/t4RBtrnQ/slide2.jpg",
+        bgImg: rigImg3 ,
         rectImg: "https://i.postimg.cc/3JFLGMRF/slide-rect2.jpg",
       },
     ],
@@ -148,7 +151,7 @@ export default {
 
 .button-icon-slide{
     border-radius: 5px;
-    background-color: rgba(11, 255, 202, 0.481);
+    background-color: rgba(11, 255, 202, 0.7);
     padding: 7px;
     font-size: 35px;
     transition: 0.5s;
@@ -164,6 +167,8 @@ export default {
   font-size: 0.7rem;
   line-height: 1;
 }
+
+
 
 [v-cloak] {
   opacity: 0;

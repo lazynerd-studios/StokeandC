@@ -4,19 +4,16 @@
         <div class="wedo-banner">
             <div class="wedo-banner-inner">
                     <div class="wedo-banner-text">
-                         Gets an Quotation For Your Industry
+                         Get in Touch with us
                     </div>
 
                     <div class="wedo-banner-info">
-                            <div class="wedo-banner-video">
-                                <Icon icon="clarity:play-solid"  class="wedo-vido-icon"/>
-                            </div>
                             <div class="wedo-call-main">
                                 <label for="call" class="wedo-call-inner">Call Us Now</label><br>
                                 <a href="tel:+96 785 456 789 ">+96 785 456 789 </a>
                             </div>
                             <div class="wedo-appoint">
-                                <span>Get appointment</span>
+                                <span>Contact us</span>
                             </div> 
                     </div>
             </div>
@@ -43,12 +40,10 @@
                                               <Icon icon="et:gears"  class="we-do-card-icon"/>
                                         </span>
                                       
-                                        <h2>Power & Energy</h2>
+                                        <h2>Consultation</h2>
                                         <p> In parallel with the repair & maintenance
                                              of pumps on floating vehicles,…</p>
-                                             <button>
-                                                 <Icon icon="entypo:plus"  />
-                                             </button>
+                                            
                                     </div>
 
                                     <div class="we-do-card-div">
@@ -56,41 +51,33 @@
                                              <Icon icon="ic:sharp-engineering" class="we-do-card-icon"   />
                                         </span>
                                        
-                                         <h2>Mechanical Works</h2>
+                                         <h2>Engineering Works</h2>
                                            <p> In parallel with the repair & maintenance
                                              of pumps on floating vehicles,…</p>
-                                             <button>
-                                                 <Icon icon="entypo:plus" />
-                                             </button>
+                                            
                                     </div>
 
                                     <div class="we-do-card-div">
                                        <span>
                                             <Icon icon="emojione-monotone:factory" :horizontalFlip="true" class="we-do-card-icon" />
                                        </span>
-                                         <h2>Petroleum Refinery</h2>
+                                         <h2>Installation</h2>
                                            <p> In parallel with the repair & maintenance
                                              of pumps on floating vehicles,…</p>
-                                             <button>
-                                                 <Icon icon="entypo:plus"  />
-                                             </button>
+                                           
                                     </div>
 
                                     <div class="we-do-card-div">
                                        <span>
                                             <Icon icon="mdi:excavator" class="we-do-card-icon" />
                                        </span>
-                                         <h2>Metal Forming</h2>
+                                         <h2>Maintenance</h2>
                                            <p> In parallel with the repair & maintenance
                                              of pumps on floating vehicles,…</p>
-                                             <button>
-                                                 <Icon icon="entypo:plus"  />
-                                             </button>
+                                           
                                     </div>
                                 </div>
-                                <div class="we-do-btn-main">
-                                     <button class="we-do-btn">explore more<Icon icon="ant-design:plus-outlined" class="we-do-button-icon" /></button>
-                                </div>
+                              
                                 </div>
                     </div>
 

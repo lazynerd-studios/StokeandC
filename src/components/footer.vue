@@ -41,8 +41,7 @@
                 <div class="footer-section1 footer-sections">
                     <img src="../assets/img/logo-2.png" alt="" srcset="">
                     <p class="footer-section1-text">
-                        Industo is a creator of zero emission energy solutions.
-                         Our versatile services help bring success to companies in the industry, energy, telecommunications.
+                      Services Limited (SCEL) renders engineering procurement and construction, marine services and manpower supply to the oil and gas industry.
                     </p>
                     <span class="footer-section1-icon">
                         <Icon icon="ei:sc-facebook" class="foot-sec1-icon" />

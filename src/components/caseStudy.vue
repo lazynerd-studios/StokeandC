@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="case-study-inner1">
-            <div class="study-inner1-title">Industo Case Study</div>
+            <div class="study-inner1-title">SCEL Case Study</div>
             <h2>Recent Industry Project</h2>
         </div>
 
