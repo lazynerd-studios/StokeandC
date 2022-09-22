@@ -30,8 +30,8 @@ html {
     position: relative;
 }
 .logo{
-    height: 60px;
-    width: 200px;
+    height:45px;
+    width: 355px;
 }
 .head-icon-main{
     display: flex;
@@ -47,7 +47,7 @@ html {
     color: black;
 }
 .head-icon{
-    color: #00D7A8;
+    color: #ff8500;
 }
 .head-icon-inner:hover .head-icon-div .head-icon{
     webkit-animation: flipX .3s linear 1;
@@ -183,7 +183,7 @@ html {
     display: flex;
     align-items: center;
     width: 70%;
-    background-color: rgb(2, 2, 113);
+    background-color: rgb(0, 53, 102);
     height: 70px;
     justify-content: space-between;
     border-radius: 10px;
@@ -278,7 +278,7 @@ margin-top: -30px;
     
 }
 .container-1-img1 > img{
-    height: 100%;
+    height: 90%;
     width: 100%;
     border-radius: 10px;
 }
@@ -287,7 +287,7 @@ margin-top: -30px;
     padding: 15px;
     height: 110px;
     width: 110px;
-    background-color: #0a69f9;
+    background-color: #0358a7;
     color: white;
     text-align: center;
     border-radius: 7px;
@@ -326,7 +326,7 @@ margin-top: -30px;
     background-repeat: no-repeat;
     font-size: 25px;
     font-weight: 800;
-    color: #0a69f9;
+    color: #0358a7;
 }
 .container-2-div2{
     margin-top: 10px;
@@ -375,7 +375,7 @@ margin-top: -30px;
     align-content: center;
 }
 .container-2-div3-main .div3-inner:hover .about-icon {
-    background-color: #00D7A8;
+    background-color: #ff8500;
 }
 .about-icon{
     transition: all 300ms linear 0ms;
@@ -383,7 +383,7 @@ margin-top: -30px;
     height: 50px;
     width: 50px;
     font-size: 40px;
-    background-color: #0a69f9;
+    background-color: #0358a7;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -403,7 +403,7 @@ margin-top: -30px;
     justify-content: space-around;
     height: 50px;
     width: 200px;
-    background-color: #00D7A8;
+    background-color: #ff8500;
     border-radius: 5px;
     cursor: pointer;
     margin-top: 30px;
@@ -416,7 +416,7 @@ margin-top: -30px;
     transition: all 300ms linear 0ms;
 }
 .About-btn:hover{
-    background-color:#0a69f9;
+    background-color:#0358a7;
 }
 .About-btn:hover .abt-button-icon{
     background-color: white;
@@ -649,7 +649,7 @@ margin-top: -30px;
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
     border-radius: 50%;
-    background-color: #00d7a8;
+    background-color: #ff8500;
     color: #fff;
     font-size: 16px;
     display: flex;
@@ -708,7 +708,7 @@ margin-top: -30px;
     border-radius: 5px;
     font-size: 17px;
     font-weight: 700;
-    background-color: #00D7A8;
+    background-color: #ff8500;
 }
 .We-do-main-body-text-main{
     display: flex;
@@ -730,7 +730,7 @@ margin-top: -30px;
     height: 100%;
     z-index: -1;
     display: block;
-    background-color: #010253;
+    background-color: #003566;
     opacity: 0.85;
     content: "";
 }
@@ -745,7 +745,7 @@ margin-top: -30px;
 }
 .We-do-main-body-text-title{
     text-align: center;
-    color: #0A69F9 ;
+    color: #e0e0e0 ;
     font-size: 25px;
     font-weight: 600;
     width: 300px;
@@ -788,7 +788,7 @@ margin-top: -30px;
     justify-content: center;
    padding: 20px;
    
-    background-color: #010253;
+    background-color: #003566;
     cursor: pointer;
     border-radius: 10px;
 }
@@ -808,7 +808,7 @@ margin-top: -30px;
 .we-do-card div button{
     margin-top: 30px;
     color: white;
-    background-color: #0a69f9;
+    background-color: #0358a7;
     border: none;
     width: 50px;
     height: 50px;
@@ -897,7 +897,7 @@ margin-top: -30px;
     justify-content: space-around;
     height: 50px;
     width: 200px;
-    background-color: #0A69F9;
+    background-color: #0358a7;
     border-radius: 5px;
     cursor: pointer;
     margin-top: 30px;
@@ -949,7 +949,7 @@ margin-top: -30px;
     background-repeat: no-repeat;
     font-size: 25px;
     font-weight: 800;
-    color: #0a69f9;
+    color: #0358a7;
 }
 .expert-text-main{
     width: 100%;
@@ -985,7 +985,7 @@ margin-top: -30px;
     border: 1px solid black;
 }
 .expert-card-inner::-webkit-scrollbar-thumb{
-   background-color: #00d7a8;
+   background-color: #ff8500;
 }
 .expert-card-inner-main{
     width: 270px;
@@ -1033,7 +1033,7 @@ margin-top: -30px;
     font-weight: 400;
     font-size: 25px;
     color: #fff;
-    background-color: #0a69f9;
+    background-color: #0358a7;
     display: inline-block;
     -webkit-border-radius: 4px;
     -khtml-border-radius: 4px;
@@ -1087,7 +1087,7 @@ margin-top: -30px;
     align-items: center;
     flex-direction: column;
     padding: 15px 0;
-    background: #0a69f9;
+    background: #0358a7;
     border-radius: 10px 0 0 10px;
     margin-right: -60px;
     opacity:0 ;
@@ -1191,7 +1191,7 @@ margin-top: -30px;
             padding: 10px;
               font-size: 13px;
               font-weight: 700;
-              background-color: #00D7A8;
+              background-color: #ff8500;
           }
           .wedo-banner{
             position: relative;
@@ -1247,7 +1247,7 @@ margin-top: -30px;
    background-repeat: no-repeat;
    font-size: 25px;
    font-weight: 600;
-   color: #0A69F9;
+   color: #0358a7;
    display: flex;
    justify-content: center;
     align-items: center;
@@ -1268,7 +1268,7 @@ margin-top: -30px;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #000254;
+    background-color: #003566;
     padding-top: 40px;
     padding-bottom: 40px;
 }
@@ -1311,7 +1311,7 @@ margin-top: -30px;
     justify-content: space-around;
     height: 40px;
     width: 150px;
-    background-color:#00D7A8;
+    background-color:#ff8500;
     border-radius: 5px;
     cursor: pointer;
     margin-top: 30px;
@@ -1329,13 +1329,13 @@ margin-top: -30px;
    margin-top: -250px;
 }
 .vueperslides__bullet {
-    color: #00d7a8 !important;;
+    color: #ff8500 !important;;
     margin-bottom: -50px!important;
 }
 .vueperslides__bullet--active .default {
     height: 7px;
     border-width: 4px!important;
-    background-color: #00d7a8!important;
+    background-color: #ff8500!important;
     width: 50px;
 }
 .vueperslides__bullet .default {
@@ -1462,7 +1462,7 @@ margin-top: -30px;
        background-repeat: no-repeat;
        font-size: 25px;
        font-weight: 600;
-       color: #0A69F9;
+       color: #0358a7;
     }
     .faq1 > img{
         border-radius: 7px;
@@ -1563,7 +1563,7 @@ margin-top: -30px;
             height: 40px;
             font-size: 20px;
             font-weight: 600;
-            color: #0A69F9;
+            color: #0358a7;
          }
          .faq1{
             padding: 10px;
@@ -1617,7 +1617,7 @@ margin-top: -30px;
        background-repeat: no-repeat;
        font-size: 25px;
        font-weight: 600;
-       color: #0A69F9;
+       color: #0358a7;
     }
     .feedback-cards-main{
         display: flex;
@@ -1686,7 +1686,7 @@ margin-top: -30px;
         align-items: center;
         height: 80px;
         width: 80px;
-        background-color: #00D7A8;
+        background-color: #ff8500;
         z-index: 10;
     }
 
@@ -1809,10 +1809,10 @@ margin-top: -30px;
     border-bottom-right-radius:10px ;
    }
 .footer-inner-header1,.footer-inner-header3{
-    background-color:  #0A69F9;
+    background-color:  #0358a7;
 }
 .footer-inner-header2{
-    background-color: #00D7A8;
+    background-color: #ff8500;
 }
 .foot-call{
     margin-right: 5px;
@@ -1874,7 +1874,7 @@ margin-top: -30px;
     padding: 10px;
 }
 .footer-section1 img{
-    width: 220px;
+    width: 290px;
 }
 .footer-section1{
     padding: 20px;
@@ -1903,7 +1903,7 @@ border-radius: 5px;
     width: 100%;
     display: flex;
     justify-content: space-between;
-    color: #0A69F9;
+    color: #0358a7;
 }
 .foot-sec1-icon{
     cursor: pointer;
@@ -1966,7 +1966,7 @@ border-radius: 5px;
    padding-left: 20px;
 }
 .newslettr-icon{
-    background-color: #0A69F9;
+    background-color: #0358a7;
     color: white;
     font-size: 40px;
     padding: 9px;
@@ -1990,7 +1990,7 @@ border-radius: 5px;
     height: 50px;
     width: 50px;
     background-color: #0c1563;
-    color: #0A69F9;
+    color: #0358a7;
     padding: 5px;
     font-size: 60px;
 }

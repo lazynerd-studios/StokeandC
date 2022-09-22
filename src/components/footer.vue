@@ -57,7 +57,7 @@
                     <h2>Newsletter</h2>
 
                     <h3>
-                        Subscribe our Newsletter to get Our Latest updates & news
+                        Subscribe our Newsletter 
                     </h3>
                     <div>
                         <input type="email" name="" id="" placeholder="enter your email">

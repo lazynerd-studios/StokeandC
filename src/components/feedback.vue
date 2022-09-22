@@ -270,7 +270,7 @@ import VueCarousel from '@chenfengyuan/vue-carousel';
     margin-left: -40px;
 }
 .vue-carousel__indicator:before{
-    background-color:#00d7a8;
+    background-color:#ff8500;
     padding: 3px;
     border-radius: 5px;
 }

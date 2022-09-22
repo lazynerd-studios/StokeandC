@@ -4,18 +4,11 @@
         <div class="wedo-banner">
             <div class="wedo-banner-inner">
                     <div class="wedo-banner-text">
-                         Get in Touch with us
+                         Get in Touch with us, Call Us Now on <a href="tel:+96 785 456 789 ">+96 785 456 789 </a>
+                         
                     </div>
 
-                    <div class="wedo-banner-info">
-                            <div class="wedo-call-main">
-                                <label for="call" class="wedo-call-inner">Call Us Now</label><br>
-                                <a href="tel:+96 785 456 789 ">+96 785 456 789 </a>
-                            </div>
-                            <div class="wedo-appoint">
-                                <span>Contact us</span>
-                            </div> 
-                    </div>
+                  
             </div>
         </div>
           <!--ENDING OF THE BANNER-->
