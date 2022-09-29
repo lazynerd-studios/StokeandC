@@ -43,12 +43,7 @@
                     <p class="footer-section1-text">
                       Services Limited (SCEL) renders engineering procurement and construction, marine services and manpower supply to the oil and gas industry.
                     </p>
-                    <span class="footer-section1-icon">
-                        <Icon icon="ei:sc-facebook" class="foot-sec1-icon" />
-                        <Icon icon="jam:instagram" class="foot-sec1-icon" />
-                        <Icon icon="entypo-social:twitter" class="foot-sec1-icon" />
-                        <Icon icon="foundation:social-linkedin" class="foot-sec1-icon" />
-                    </span>
+                   
                 </div>
 
                 
