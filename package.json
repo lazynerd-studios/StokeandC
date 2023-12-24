@@ -1,5 +1,5 @@
 {
-  "name": "industo",
+  "name": "stokeandcaldwell",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -13,6 +13,7 @@
     "@fortawesome/free-regular-svg-icons": "^6.1.1",
     "@fortawesome/free-solid-svg-icons": "^6.1.1",
     "core-js": "^3.6.5",
+    "terser": "^5.26.0",
     "vue": "^3.2.36",
     "vue3-carousel": "^0.1.40",
     "vueperslides": "^3.3.2"
